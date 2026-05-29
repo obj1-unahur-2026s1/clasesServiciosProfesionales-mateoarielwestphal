@@ -1,0 +1,7 @@
+class Universidad {
+  const provincia 
+  const honorarios  
+
+  method provincia() = provincia 
+  method honorarios() = honorarios 
+}
